@@ -14,7 +14,7 @@ internal class Program
          *  The .Where(w => w.Length > 0).ToArray() is just another 
          *  way to filter out empty strings in an array. Mukang pang expert kaya nilagay ko
          *  
-         *  The simple way to do it is like in line 20,
+         *  The simple way to do it is like in line 23,
          *  We check if the index of the array is null or empty
          *  and if it's empty we do nothing.
         */
