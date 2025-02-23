@@ -1,0 +1,14 @@
+C:\Users\Styx\Desktop\SilkNet\Styx\bin\Debug\net8.0\Styx.exe
+C:\Users\Styx\Desktop\SilkNet\Styx\bin\Debug\net8.0\Styx.deps.json
+C:\Users\Styx\Desktop\SilkNet\Styx\bin\Debug\net8.0\Styx.runtimeconfig.json
+C:\Users\Styx\Desktop\SilkNet\Styx\bin\Debug\net8.0\Styx.dll
+C:\Users\Styx\Desktop\SilkNet\Styx\bin\Debug\net8.0\Styx.pdb
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.AssemblyInfoInputs.cache
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.AssemblyInfo.cs
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.csproj.CoreCompileInputs.cache
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.dll
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\refint\Styx.dll
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.pdb
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\Styx.genruntimeconfig.cache
+C:\Users\Styx\Desktop\SilkNet\Styx\obj\Debug\net8.0\ref\Styx.dll
