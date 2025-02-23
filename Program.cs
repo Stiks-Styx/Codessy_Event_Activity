@@ -117,6 +117,10 @@ internal class Program
             WriteLine($"Unique Vowels: {string.Join(", ", uniqueVowels)}");
             WriteLine($"Unique Consonants: {string.Join(", ", uniqueConsonants)}");
 
+            /*
+             * WriteLine($"Letter Frequency: {string.Join(", ", frequency.Select(kv => $"{kv.Key}:{kv.Value}"))}");
+             * same lang nung nasa baba pero advance tawag dito ay lambda expression.
+            */
             Write("Letter Frequency: ");
             foreach (var kv in frequency)
             {
@@ -141,7 +145,6 @@ internal class Program
                 Write($"{kv.Key}:{kv.Value}, ");
             }
             WriteLine();
-
         }
     }
 }
