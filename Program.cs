@@ -10,13 +10,17 @@ internal class Program
 
         string[] words = Regex.Split(input, @"[^a-zA-Z]+")/*.Where(w => w.Length > 0).ToArray()*/;
 
-        /*
-         *  The .Where(w => w.Length > 0).ToArray() is just another 
-         *  way to filter out empty strings in an array. Mukang pang expert kaya nilagay ko
+        /* The pattern [^a-zA-Z]+ means
+         * ^ inside [] negates the character class, meaning "anything except".
+         * a-zA-Z includes all lowercase and uppercase letters.
+         * + means one or more occurrences.
+         * 
+         * The .Where(w => w.Length > 0).ToArray() is just another 
+         * way to filter out empty strings in an array. Mukang pang expert kaya nilagay ko
          *  
-         *  The simple way to do it is like in line 23,
-         *  We check if the index of the array is null or empty
-         *  and if it's empty we do nothing.
+         * The simple way to do it is like in line 27,
+         * We check if the index of the array is null or empty
+         * and if it's empty we do nothing.
         */
         foreach (var word in words)
         {
